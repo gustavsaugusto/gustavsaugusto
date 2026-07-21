@@ -1,16 +1,35 @@
-## Hi there 👋
+Olá, sou Gustavo Augusto, graduando em Ciência da Computação!
 
-<!--
-**gustavsaugusto/gustavsaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vindo(a) ao meu perfil!
 
-Here are some ideas to get you started:
+Sou estudante e apaixonado por tecnologia. Utilizo este espaço para compartilhar projetos acadêmicos, desafios de programação e experiências que refletem minha evolução ao longo da graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Áreas de Interesse
+
+* 🌐 Desenvolvimento Front-end
+* ⚙️ Desenvolvimento Back-end
+* 📊 Ciência e Análise de Dados
+* 🔐 Cybersecurity
+* 🎨 UX/UI Design
+
+💻 Tecnologias
+
+* C
+* Java
+* Python
+* JavaScript
+* SQL
+* HTML
+* CSS
+
+🛠️ Ferramentas
+
+* Git
+* GitHub
+* Visual Studio Code (VS Code)
+
+📂 Sobre este perfil
+
+Neste perfil você encontrará projetos desenvolvidos durante minha graduação, atividades acadêmicas, exercícios práticos e estudos voltados ao desenvolvimento de software e à lógica de programação.
+
+Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha trajetória na área de tecnologia.
